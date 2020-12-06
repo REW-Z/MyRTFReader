@@ -1,0 +1,10 @@
+C:\Users\dell-pc\Desktop\Test\RichTextReader\bin\Debug\RichTextReader.exe.config
+C:\Users\dell-pc\Desktop\Test\RichTextReader\bin\Debug\RichTextReader.exe
+C:\Users\dell-pc\Desktop\Test\RichTextReader\bin\Debug\RichTextReader.pdb
+C:\Users\dell-pc\Desktop\Test\RichTextReader\obj\Debug\RichTextReader.csprojAssemblyReference.cache
+C:\Users\dell-pc\Desktop\Test\RichTextReader\obj\Debug\RichTextReader.Form1.resources
+C:\Users\dell-pc\Desktop\Test\RichTextReader\obj\Debug\RichTextReader.Properties.Resources.resources
+C:\Users\dell-pc\Desktop\Test\RichTextReader\obj\Debug\RichTextReader.csproj.GenerateResource.cache
+C:\Users\dell-pc\Desktop\Test\RichTextReader\obj\Debug\RichTextReader.csproj.CoreCompileInputs.cache
+C:\Users\dell-pc\Desktop\Test\RichTextReader\obj\Debug\RichTextReader.exe
+C:\Users\dell-pc\Desktop\Test\RichTextReader\obj\Debug\RichTextReader.pdb
